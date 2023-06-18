@@ -10,11 +10,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	
-	<groupId>org.societe.generale</groupId>
-	<artifactId>SGTest</artifactId>
+	<groupId>org.money.institution</groupId>
+	<artifactId>MoneyInstitution</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SGTest</name>
-	<description>Demo project for Spring Boot</description>
+	<name>SampleMoneyInstitution</name>
+	<description>Sample project about exposing API for money institution.</description>
 	<packaging>jar</packaging>
 
 	<properties>
